@@ -4,6 +4,7 @@ A File Organizer completely written in JavaScript
 
 Dependencies: 
 1. Node js
+2. npm
 
 How to run this:
 1. Clone this repository onto your system and cd into the folder
