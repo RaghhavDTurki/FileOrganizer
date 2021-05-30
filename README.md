@@ -2,7 +2,20 @@
 A File Organizer completely written in JavaScript
 
 
-*Dependencies: 
+Dependencies: 
 1. Node js
 
-*Commands:
+Commands:
+1. Help
+```
+FileUtil help
+    List of all commands: 
+        FileUtil tree "DirectoryPath"
+        FileUtil organize "DirectoryPath"
+        FileUtil help
+```
+
+2. Tree
+```
+FileUtil tree "Directory Path"
+```
